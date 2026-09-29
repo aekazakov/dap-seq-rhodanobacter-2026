@@ -1,0 +1,12 @@
+attgcaccatcatgactc
+attgcaccatcatggaac
+actgcaccagcatgaaac
+attgcaccatcatgggca
+attgcaccatcatgggca
+tttgcaccaagacgagac
+tttgcaccaagacgagac
+attgcaccatcacgtttc
+ttagcaccatccgcaccc
+ttcgcaccatccgcaccc
+actgcaacagtgcaaacc
+actgcaacagtgcaaagc

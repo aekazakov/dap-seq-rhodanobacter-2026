@@ -1,0 +1,23 @@
+
+Number of binding sites in 5 input sequences:				4
+Average number of binding sites in 10 sets of 5 backg sequences:	 0.0
+Maximal difference in PWM between two consecutive iterations:		0.3532
+Specified and actual computed FDR bounds:				0.0001 0.0000
+
+
+The    4 binding sites are distributed in     5 input sequences (0.800)
+
+The    0 binding sites are distributed in    50 backg sequences (0.000)
+
+--------------------------------------------------------------------------------------------
+   #seq_0_site  #seq_1_site  #seq_2_site  #seq_>2_site
+           1         4         0         0
+
+Individual sites: [10bp flanking--MOTIF--10bp flanking] [strand] [seq] [pos]
+>FW510-R12|LRK53_RS05070	aatgtggaagTACGCACCTTCAGGTTAGTGatatgagccg	+	2	71
+>OR444|RHOOR444_RS19845 	aatgtggaagTACGCACCTTCAGGTTAGTGatatgagccg	+	5	127
+>A1T4|HDE80_RS19465     	gttcagtaagTACTGACATAAAGGTAAGTAttcatgagcg	+	1	60
+>MP1X3|HDE79_RS07765    	gtttagtaagTACTGACATAAAGGTAAGTAttcatgagcg	+	4	61
+
+-------------------------------------------------------
+Num of binding sites=4	motif width=20	llr=99	E_value=2.6e-006

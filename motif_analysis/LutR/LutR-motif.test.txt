@@ -1,0 +1,29 @@
+==========================================================================
+
+command line: fdrMotif -fm ./LutR/LutR.target_upstreams.fna -fdrb 0.0001 -g 1 -nbsets 10 -Imb 1 -fo LutR/LutR-motif.test.txt -fpwm LutR/LutR.mx -fM LutR/LutR-motif.summary.txt -fb FW104-10B01.upstreams.fna 
+
+Input (motif) sequence file:				./LutR/LutR.target_upstreams.fna
+Number of sequences in input sequence file:		12
+Average input sequence length:				341
+Number of background sequence sets:			10
+Number of background sequence in each set:		12
+Average backg sequence length:				185
+Number of starting PMWs:					1
+Maximal number of iterations:				1
+Upper bound of FDR is set at:				0.0001
+Maximal number of binding sits in a single sequence:	10
+Termination convergence criterion:			1.000000e-04
+non-motif sequence file:				FW104-10B01.upstreams.fna
+Random seed number:					123456789
+Background sequences are generated from Markov model that is estimated from non-motif sequences
+
+The background nucleotide frequency: a:0.1820632	c:0.3179368	g:0.3179368	t:0.1820632
+
+job started: Mon Sep 28 15:34:26 2026
+
+=========================================================================
+
+If one would like to select more binding sites in input sequences, one may increase the FDR bound and re-run fdrMotif
+
+finished: Mon Sep 28 15:34:26 2026
+

@@ -1,0 +1,20 @@
+Regulon	Motif consensus	FDR upper limit	Computed FDR	Sites	E-value
+AcrR	tccatactcwtccgtatggt	0.0001	0.0000	63	1.1e-459
+ArsR	gattctatmwttmyrkaawkatagaatc	0.0001	0.0000	4	7.6e-027
+Clp	artgtgaysyrsrtcacayt	0.0001	0.0000	35	4.9e-110
+DmlR	aancccytnngmtwgcgtkaavhancmanr	0.0001	0.0000	36	3.3e-147
+ExuR	aatgwtatcgrtatcaagataycgatawcatt	0.0001	0.0000	40	8.4e-541
+HxlR	tackbacmtdmaggttagtr	0.0001	0.0000	4	2.6e-006
+LacI1	gttgacaacgttgtcanc	0.0001	0.0000	43	3.1e-297
+LacI2	gaaaataccagcgctggtaytttt	0.0001	0.0000	23	4.7e-088
+LutR	nwwttgtankacaaatw	0.0001	0.0000	12	2.1e-004
+NreC	vtgrgtgaamtccccbat	0.0001	0.0000	10	1.5e-037
+NtrC	wttgcaccatcaygannc	0.0001	0.0000	27	1.2e-096
+OxyR	aynnntnnnnncnatcncnnnnatnnnknnnatcnat	0.0001	0.0000	61	7.2e-263
+PhoP	ttcacgcngycrtcac	0.0001	0.0000	58	2.2e-200
+PilR	wstgmcgnnncgcgkcanywkntgacgynytrcgycagn	0.0001	0.0000	129	8.2e-719
+RbsR	nyatgwaaacghttwcannn	0.0001	0.0000	33	1.0e-167
+YttP	wcaaacgatcgtttga	0.0001	0.0000	87	1.1e-528
+ZntR	cwtggagbcractccatg	0.0001	0.0000	8	5.0e-029
+ZraR2	tgtaacggcggcgataca	0.0001	0.0000	16	8.0e-063
+Zur	taatgttataacatwacawwa	0.0001	0.0000	109	1.1e-328
