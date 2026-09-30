@@ -1,1 +1,1 @@
-Clp/Clp	artgtgaysyrsrtcacayt	natgtgatgcagttcrcamt	0.0001	0.0000	35	4.9e-110
+Clp/Clp	artgtgaysyrsrtcacayt	nrtgtgatnyngwtcrcant	0.0001	0.0000	13	7.7e-018

@@ -1,1 +1,1 @@
-LacI1/LacI1	gttgacaacgttgtcanc	gttgacaacgttgtcatt	0.0001	0.0000	43	3.1e-297
+LacI1/LacI1	gttgacaacgttgtcanc	gttgacaacgttgtcatt	0.0001	0.0000	47	3.5e-238

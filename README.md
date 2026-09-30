@@ -48,7 +48,8 @@ python export_upstreams_drep.py
 sh run_drep.sh
 ```
 
-The list of genomes for the dreplicated dataset will be generated in the /dereplicate_genome_set/drep_upstreams_nucmer/data_tables/Wdb.csv file.
+The list of genomes for the dereplicated dataset will be generated in the /dereplicate_genome_set/drep_upstreams_nucmer/data_tables/Wdb.csv file.
+In the dereplicated dataset, the FW104-R5 genome was replaced by FW104-10B01 from the same cluster, since FW104-10B01 is a primary object of the experimental study. 
 
 ## Calculate orthologs for comparative analyses
 

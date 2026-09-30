@@ -1,1 +1,1 @@
-ExuR/ExuR	aatgwtatcgrtatcaagataycgatawcatt	aatgwtatcgrtatcaagataycgatawcatt	0.0001	0.0000	40	8.4e-541
+ExuR/ExuR	aatgwtatcgrtatcaagataycgatawcatt	aatgwtatcgrtatcaagataycgatawcatt	0.0001	0.0000	39	1.0e-526

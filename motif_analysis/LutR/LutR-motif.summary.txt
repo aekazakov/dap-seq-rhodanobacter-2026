@@ -1,1 +1,1 @@
-LutR/LutR	nwwttgtankacaaatw	mtatngtagtayraata	0.0001	0.0000	12	2.1e-004
+LutR/LutR	nwwttgtankacaaatw	mtatngtagkayraata	0.0001	0.0000	13	5.6e-003

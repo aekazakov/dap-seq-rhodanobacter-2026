@@ -1,1 +1,1 @@
-DmlR/DmlR	aancccytnngmtwgcgtkaavhancmanr	aancccytnngmtwgcgtkaavhancmanr	0.0001	0.0000	36	3.3e-147
+DmlR/DmlR	aancccytnngmtwgcgtkaavhancmanr	aancccttnngmtwgcgtkaavhancmanr	0.0001	0.0000	33	1.2e-133

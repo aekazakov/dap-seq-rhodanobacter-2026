@@ -1,1 +1,1 @@
-NtrC/NtrC	wttgcaccatcaygannc	tttgcaccaakacgarac	0.0001	0.0000	27	1.2e-096
+NtrC/NtrC	wttgcaccatcaygannc	tttgcaccaakacgagac	0.0001	0.0000	26	1.0e-091

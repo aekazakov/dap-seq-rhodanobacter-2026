@@ -64,8 +64,10 @@ def read_orthologs(ortholog_file, genomes):
         for line in infile:
             row = line.rstrip('\n\r').split('\t')
             if row[1] in genomes:
+                row[2] = row[2].split('|')[-1]
                 for gene_id in row[3].split(', '):
                     if gene_id != '':
+                        gene_id = gene_id.split('|')[-1]
                         orthologs[row[2]].append(gene_id)
                         orthologs[gene_id].append(row[2])
     return orthologs

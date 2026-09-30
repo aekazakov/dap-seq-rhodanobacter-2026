@@ -1,7 +1,7 @@
 
 Number of binding sites in 8 input sequences:				8
 Average number of binding sites in 10 sets of 8 backg sequences:	 0.0
-Maximal difference in PWM between two consecutive iterations:		0.4328
+Maximal difference in PWM between two consecutive iterations:		0.4325
 Specified and actual computed FDR bounds:				0.0001 0.0000
 
 
@@ -14,9 +14,9 @@ The    0 binding sites are distributed in    80 backg sequences (0.000)
            0         8         0         0
 
 Individual sites: [10bp flanking--MOTIF--10bp flanking] [strand] [seq] [pos]
->FW104-R8|AC7AOA_RS00640|NZ_CM192215|137	aagcgtgtcaCTTGGAGTCAACTCCATGtcaacagctg	+	4	56
->FW106-PBR-LB-1-21|AB7872_RS00645|NZ_JBG	aagcgtgtcaCTTGGAGTCAACTCCATGtcaacagctg	+	5	56
->FW510-T8|RhoFW510T8_RS07735|scaffold000	aagcgtgtcaCTTGGAGTCAACTCCATGtcaacagctg	+	7	56
+>FW106-PBR-LB-2-11|AB7867_RS01210|NZ_JBG	aagcgtgtcaCTTGGAGTCAACTCCATGtcaacagctg	+	4	56
+>FW106_bin.6|EPN58_09120|SCRO01000056|21	aagcatgtccCTTGGAGTCAACTCCATGtcaagctttt	+	5	57
+>FW510-R10|RhoFW510R10_RS08440|scaffold0	aagcgtgtcaCTTGGAGTCAACTCCATGtcaacagctg	+	7	55
 >DSM-24678|LRK24_RS02190|NZ_CP088919|489	aagcgtgtcaTTTGGAGTCAACTCCATGtcaagtcttt	+	1	55
 >FW104-10B01|LRK54_RS09605|NZ_CP088922|2	aagcgtgtcaTTTGGAGTCAACTCCATGtcaagtcttt	+	2	55
 >FW104-MT042|LRK55_RS09265|NZ_CP088925|2	aagcgtgtcaTTTGGAGTCAACTCCATGtcaagtcttt	+	3	55
@@ -24,4 +24,4 @@ Individual sites: [10bp flanking--MOTIF--10bp flanking] [strand] [seq] [pos]
 >OR444|RHOOR444_RS18795|NZ_KE386502|4222	aatagcttgaCTTGGAGTTTGCTCCAGGtaatcagcga	+	8	12
 
 -------------------------------------------------------
-Num of binding sites=8	motif width=18	llr=189	E_value=5.0e-029
+Num of binding sites=8	motif width=18	llr=189	E_value=6.6e-029

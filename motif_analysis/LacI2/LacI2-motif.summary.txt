@@ -1,1 +1,1 @@
-LacI2/LacI2	gaaaataccagcgctggtaytttt	gaaaataccagcgctggtaytttt	0.0001	0.0000	23	4.7e-088
+LacI2/LacI2	gaaaataccagcgctggtaytttt	gaaaataccagcgctggtaytttt	0.0001	0.0000	23	1.5e-074

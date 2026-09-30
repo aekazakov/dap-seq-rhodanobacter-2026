@@ -1,1 +1,1 @@
-ZntR/ZntR	cwtggagbcractccatg	yttggagtcaactccatg	0.0001	0.0000	8	5.0e-029
+ZntR/ZntR	cwtggagbcractccatg	yttggagtcaactccatg	0.0001	0.0000	8	6.6e-029

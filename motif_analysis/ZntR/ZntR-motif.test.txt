@@ -4,7 +4,7 @@ command line: fdrMotif -fm ./ZntR/ZntR.target_upstreams.fna -fdrb 0.0001 -g 1 -n
 
 Input (motif) sequence file:				./ZntR/ZntR.target_upstreams.fna
 Number of sequences in input sequence file:		8
-Average input sequence length:				220
+Average input sequence length:				228
 Number of background sequence sets:			10
 Number of background sequence in each set:		8
 Average backg sequence length:				185
@@ -19,11 +19,11 @@ Background sequences are generated from Markov model that is estimated from non-
 
 The background nucleotide frequency: a:0.1820632	c:0.3179368	g:0.3179368	t:0.1820632
 
-job started: Mon Sep 28 15:33:17 2026
+job started: Tue Sep 29 18:34:49 2026
 
 =========================================================================
 
 If one would like to select more binding sites in input sequences, one may increase the FDR bound and re-run fdrMotif
 
-finished: Mon Sep 28 15:33:17 2026
+finished: Tue Sep 29 18:34:49 2026
 

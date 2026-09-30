@@ -1,17 +1,17 @@
 
-Number of binding sites in 10 input sequences:				10
-Average number of binding sites in 10 sets of 10 backg sequences:	 0.0
-Maximal difference in PWM between two consecutive iterations:		0.3177
+Number of binding sites in 9 input sequences:				9
+Average number of binding sites in 10 sets of 9 backg sequences:	 0.0
+Maximal difference in PWM between two consecutive iterations:		0.3198
 Specified and actual computed FDR bounds:				0.0001 0.0000
 
 
-The   10 binding sites are distributed in    10 input sequences (1.000)
+The    9 binding sites are distributed in     9 input sequences (1.000)
 
-The    0 binding sites are distributed in   100 backg sequences (0.000)
+The    0 binding sites are distributed in    90 backg sequences (0.000)
 
 --------------------------------------------------------------------------------------------
    #seq_0_site  #seq_1_site  #seq_2_site  #seq_>2_site
-           0        10         0         0
+           0         9         0         0
 
 Individual sites: [10bp flanking--MOTIF--10bp flanking] [strand] [seq] [pos]
 >DSM-24678|LRK24_RS04255|NZ_CP088919|972	cgcgcccgtaCTGAGTGAACTCCCCTATtggcgccacc	+	1	242
@@ -22,8 +22,7 @@ Individual sites: [10bp flanking--MOTIF--10bp flanking] [strand] [seq] [pos]
 >FW510-R12|LRK53_RS16935|NZ_CP088923|371	cgcgcgcgtaCTGAGTGAACTCCCCTATtggcgccagc	+	6	174
 >LCS2|UUA_RS05930|NZ_AJXW01000024|16148|	cgcgcgcgtaCTGAGTGAACTCCCCTATtggcgccagc	+	7	228
 >OR444|RHOOR444_RS0107225|NZ_KE386509|16	cgcgcgcgtaCTGAGTGAACTCCCCTATtggcgccagc	+	9	228
->OR87|RHOOR87_RS0106780|NZ_AXBJ01000005|	cgcgcccgtaCTGAGTGAACTCCCCTATtggcgccacc	+	10	242
->LX-100|KK133_RS02500|NZ_JAHFVM010000001	tccatccgtgGCAGGGGAAATCACCTACgccccgcttc	+	8	61
+>LX-99|KK131_RS06115|NZ_JAHFVL010000001|	tccatccgtgGCAGGGGAAATCACCTACgccccgcttc	+	8	61
 
 -------------------------------------------------------
-Num of binding sites=10	motif width=18	llr=230	E_value=1.5e-037
+Num of binding sites=9	motif width=18	llr=205	E_value=2.6e-030

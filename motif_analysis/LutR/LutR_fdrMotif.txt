@@ -1,31 +1,32 @@
 
-Number of binding sites in 12 input sequences:				12
-Average number of binding sites in 10 sets of 12 backg sequences:	 0.0
-Maximal difference in PWM between two consecutive iterations:		0.3223
+Number of binding sites in 14 input sequences:				13
+Average number of binding sites in 10 sets of 14 backg sequences:	 0.0
+Maximal difference in PWM between two consecutive iterations:		0.3267
 Specified and actual computed FDR bounds:				0.0001 0.0000
 
 
-The   12 binding sites are distributed in    12 input sequences (0.917)
+The   13 binding sites are distributed in    14 input sequences (0.857)
 
-The    0 binding sites are distributed in   120 backg sequences (0.000)
+The    0 binding sites are distributed in   140 backg sequences (0.000)
 
 --------------------------------------------------------------------------------------------
    #seq_0_site  #seq_1_site  #seq_2_site  #seq_>2_site
-           1        10         1         0
+           2        11         1         0
 
 Individual sites: [10bp flanking--MOTIF--10bp flanking] [strand] [seq] [pos]
->C03|B0E48_RS02645|NZ_MUNT01000001|62079	gtcttttataCTATGGTAGTACAAATTgagttttctg	+	5	163
->FW510-R12|LRK53_RS04920|NZ_CP088923|114	acgtatagtaCTATAGTAGGACAAATAcaaaaatctg	+	9	172
->OR444|RHOOR444_RS0113530|NZ_KE386530|20	acgtatagtaCTATAGTAGGACAAATAcaaaaatctg	+	11	172
->B04|B0E46_RS08975|NZ_MUNV01000009|29678	gtcttttataCTATGGTAGTACAAATGgagttttctg	+	2	163
->B05|B0E47_RS04730|NZ_MUNU01000010|19320	gtattttataCTATGGTAGTACAAATGggattttctg	+	3	159
->KCTC22232|IE071_RS09945|NZ_BMXT01000002	gcattttataCTATGGTAGTACAAATGgaattttctg	+	10	162
->SCN18_26_2_15_R4_B_68_45|J0I71_03550|JA	cagaaaatttGATTTGTACTACCATAAtataaaatgc	-	12	179
->FW021_bin.35|EPN38_01910|SCQU01000003|1	ctctgtgcggATATAATCATACAATATgctttacgtc	-	8	259
->7MK24|IHE49_RS11225|NZ_JACYXL010000006|	gactattttcATATTGTAGTATGAATAaacattttgt	+	1	172
->DHB23|IHE47_RS07935|NZ_JACYXK010000025|	gactattttcATATTGTAGTATGAATAaacattttgt	+	6	173
->DHG33|IHE46_RS01000|NZ_JACYXM010000001|	gactattttcATATTGTAGTATGAATAaacattttgc	+	7	110
->DHB23|IHE47_RS07935|NZ_JACYXK010000025|	gcctgtggacCCATCGTATTACAAAATgtttattcat	-	6	209
+>C03|B0E48_RS02645|NZ_MUNT01000001|62079	gtcttttataCTATGGTAGTACAAATTgagttttctg	+	6	163
+>FW510-R12|LRK53_RS04920|NZ_CP088923|114	acgtatagtaCTATAGTAGGACAAATAcaaaaatctg	+	11	172
+>OR444|RHOOR444_RS0113530|NZ_KE386530|20	acgtatagtaCTATAGTAGGACAAATAcaaaaatctg	+	13	172
+>B04|B0E46_RS08975|NZ_MUNV01000009|29678	gtcttttataCTATGGTAGTACAAATGgagttttctg	+	3	163
+>B05|B0E47_RS04730|NZ_MUNU01000010|19320	gtattttataCTATGGTAGTACAAATGggattttctg	+	4	159
+>KCTC22232|IE071_RS09945|NZ_BMXT01000002	gcattttataCTATGGTAGTACAAATGgaattttctg	+	12	162
+>67-28|BGO50_02175|MKTU01000024|41614|41	cagaaaatttGATTTGTACTACCATAAtataaaatgc	-	1	179
+>SCN67-45|ABS82_03255|MEFB01000012|6721|	cagaaaatttGATTTGTACTACCATAAtataaaatgc	-	14	179
+>FW021_bin.35|EPN38_01910|SCQU01000003|1	ctctgtgcggATATAATCATACAATATgctttacgtc	-	9	259
+>7MK24|IHE49_RS11225|NZ_JACYXL010000006|	gactattttcATATTGTAGTATGAATAaacattttgt	+	2	172
+>DHB23|IHE47_RS07935|NZ_JACYXK010000025|	gactattttcATATTGTAGTATGAATAaacattttgt	+	7	173
+>DHG33|IHE46_RS01000|NZ_JACYXM010000001|	gactattttcATATTGTAGTATGAATAaacattttgc	+	8	110
+>DHB23|IHE47_RS07935|NZ_JACYXK010000025|	gcctgtggacCCATCGTATTACAAAATgtttattcat	-	7	209
 
 -------------------------------------------------------
-Num of binding sites=12	motif width=17	llr=164	E_value=2.1e-004
+Num of binding sites=13	motif width=17	llr=170	E_value=5.6e-003

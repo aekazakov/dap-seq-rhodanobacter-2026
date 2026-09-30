@@ -1,1 +1,1 @@
-OxyR/OxyR	aynnntnnnnncnatcncnnnnatnnnknnnatcnat	rncaatcgrancnatgccracaatcaattagattwat	0.0001	0.0000	61	7.2e-263
+OxyR/OxyR	aynnntnnnnncnatcncnnnnatnnnknnnatcnat	rncaatcgrancnatgccracaatcaattagattwat	0.0001	0.0000	61	1.8e-261

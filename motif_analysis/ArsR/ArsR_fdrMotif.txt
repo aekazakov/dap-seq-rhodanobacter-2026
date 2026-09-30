@@ -1,23 +1,25 @@
 
-Number of binding sites in 4 input sequences:				4
-Average number of binding sites in 10 sets of 4 backg sequences:	 0.0
-Maximal difference in PWM between two consecutive iterations:		0.5070
+Number of binding sites in 6 input sequences:				6
+Average number of binding sites in 10 sets of 6 backg sequences:	 0.0
+Maximal difference in PWM between two consecutive iterations:		0.3418
 Specified and actual computed FDR bounds:				0.0001 0.0000
 
 
-The    4 binding sites are distributed in     4 input sequences (1.000)
+The    6 binding sites are distributed in     6 input sequences (1.000)
 
-The    0 binding sites are distributed in    40 backg sequences (0.000)
+The    0 binding sites are distributed in    60 backg sequences (0.000)
 
 --------------------------------------------------------------------------------------------
    #seq_0_site  #seq_1_site  #seq_2_site  #seq_>2_site
-           0         4         0         0
+           0         6         0         0
 
 Individual sites: [10bp flanking--MOTIF--10bp flanking] [strand] [seq] [pos]
->DSM-24678|LRK24_RS12430|NZ_CP088919|272	ttgatttgacGATTCTATCATTATGGAAATATAGAAACcaatccggaa	+	1	66
->FW104-10B01|LRK54_RS01395|NZ_CP088922|3	ttgatttgacGATTCTATCATTATGGAAATATAGAAACcaatccggaa	+	2	66
->FW104-MT042|LRK55_RS01160|NZ_CP088925|2	ttgatttgacGATTCTATCATTATGGAAATATAGAAACcaatccggaa	+	3	66
->FW107-2APBS1|LRJ86_RS05130|NZ_CP088918|	ttgatttgacGATTCTATCATTATGGAAATATAGAAACcaatccggaa	+	4	65
+>DSM-24678|LRK24_RS12430|NZ_CP088919|272	ttgatttgacGATTCTATCATTATGGAAATATAGAAACcaatccggaa	+	2	66
+>FW104-10B01|LRK54_RS01395|NZ_CP088922|3	ttgatttgacGATTCTATCATTATGGAAATATAGAAACcaatccggaa	+	3	66
+>FW104-MT042|LRK55_RS01160|NZ_CP088925|2	ttgatttgacGATTCTATCATTATGGAAATATAGAAACcaatccggaa	+	4	66
+>FW107-2APBS1|LRJ86_RS05130|NZ_CP088918|	ttgatttgacGATTCTATCATTATGGAAATATAGAAACcaatccggaa	+	5	65
+>B2A1Ga4|IMW82_RS01500|NZ_JADBJR01000000	ttccggattgGCTTCCATATTTCCATTATTATAGAATCatcaaaccaa	-	1	65
+>LCS2|UUA_RS03520|NZ_AJXW01000011|83972|	ttccggattgGCTTCTATATTTCCATGATTATAGAATTatcaaaccac	-	6	331
 
 -------------------------------------------------------
-Num of binding sites=4	motif width=28	llr=175	E_value=7.6e-027
+Num of binding sites=6	motif width=28	llr=140	E_value=3.2e-006

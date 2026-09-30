@@ -104,6 +104,8 @@ def read_orthologues(ort_files):
             header = infile.readline().rstrip('\n\r').split('\t')[1:]
             for line in infile:
                 _, species, gene1, gene2 = line.rstrip('\n\r').split('\t')
+                gene1 = gene1.split('|')[-1]
+                gene2 = gene2.split('|')[-1]
                 ret[genome][gene1][species] = gene2
                 ret[genome][gene1][genome] = gene1
                 genomes.add(species)

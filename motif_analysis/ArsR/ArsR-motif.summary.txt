@@ -1,1 +1,1 @@
-ArsR/ArsR	gattctatmwttmyrkaawkatagaatc	gattctatcattatggaaatatagaaac	0.0001	0.0000	4	7.6e-027
+ArsR/ArsR	gattctatmwttmyrkaawkatagaatc	gattctatcattatggaaatatagaaac	0.0001	0.0000	6	3.2e-006
