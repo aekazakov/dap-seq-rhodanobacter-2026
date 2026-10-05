@@ -19,11 +19,11 @@ Background sequences are generated from Markov model that is estimated from non-
 
 The background nucleotide frequency: a:0.1820632	c:0.3179368	g:0.3179368	t:0.1820632
 
-job started: Tue Sep 29 18:34:48 2026
+job started: Mon Oct  5 11:57:14 2026
 
 =========================================================================
 
 If one would like to select more binding sites in input sequences, one may increase the FDR bound and re-run fdrMotif
 
-finished: Tue Sep 29 18:34:48 2026
+finished: Mon Oct  5 11:57:14 2026
 
