@@ -101,3 +101,13 @@ python collect_fdrmotif_results.py
 
 The resulting file called fdrMotif_results.txt contains information from fdrMotif summary files, which includes E-value and computed FDR.
 
+
+## Figure generation
+
+Use the files in **rhodanobacter_dapseq_figures/**
+
+**data/** : contains raw data and metadata for preparing the manuscript figures. It also contains the **.prism** file used for the RT-qPCR statistical analysis and plotting (Figure 5)
+
+**scripts/** : contains several scripts, including a script that defines a few ad-hoc functions (**helpers.R**) and a script that handles importing and pre-processing data (**import.R**). Those scripts are invoked by **circos.R**, **cytoscape.R**, **growth_curves.R**, **upset_plot.R**, and **venn_diagram.R** to generate panels used in the figures 3, 4 of the main text and Figure S1 of the supplemental material.
+
+**Obs:** To ensure that **cytoscape.R**  properly runs, please ensure you have Cytoscape installed and open on your machine as you run the script.  These figures were originally made in R version 4.5.1.Information for all the dependencies of these scripts can be found in the main text of the manuscript.
